@@ -1,4 +1,7 @@
 {
   "version": 2,
-  "projects": {}
+  "projects": {
+    "angular-host": "apps/angular-host",
+    "angular-remote": "apps/angular-remote"
+  }
 }
